@@ -66,10 +66,10 @@ python normalize_text.py Frankenstein.txt -lowercase -stopwords -removegutenberg
 
 AI assistance was used in the following ways during development:
 
-Creation of the regular expression used to extract tokens from text  
-Creation of the regular expressions used to identify and remove Project Gutenberg header and footer text  
-Assistance with the approach for converting a list of tokens into a frequency mapping and sorting the results by frequency
-Creation of README.md file 
+- Creation of the regular expression used to extract tokens from text  
+- Creation of the regular expressions used to identify and remove Project Gutenberg header and footer text  
+- Assistance with the approach for converting a list of tokens into a frequency mapping and sorting the results by frequency
+- Creation of README.md file 
 
 CO2 Emissisions = 4.32g*4 = 17.28g
 ---

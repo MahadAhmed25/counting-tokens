@@ -1,6 +1,4 @@
-# Counting Tokens – COMPSCI 4NL3 HW1
-
-This project implements a Python program that reads a text file, performs text normalization and tokenization, counts word frequencies, and visualizes the resulting rank–frequency distribution. The script was developed to satisfy the requirements of Homework 1 for COMPSCI 4NL3.
+# Counting Tokens – COMPSCI 4NL3 A1
 
 ---
 

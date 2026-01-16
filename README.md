@@ -1,4 +1,4 @@
-# Counting Tokens – COMPSCI 4NL3 A1
+# Counting Tokens – SFWRENG 4NL3 A1
 
 ---
 
